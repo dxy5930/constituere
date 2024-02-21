@@ -1,0 +1,23 @@
+{
+  "name": "constituere",
+  "version": "0.0.10",
+  "description": "a multi cli!",
+  "bin": "./bin/cli.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xinyudai",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^9.4.1",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.6.0",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^8.2.0",
+    "ora": "^5.4.1",
+    "path": "^0.12.7",
+    "util": "^0.12.5"
+  }
+}
